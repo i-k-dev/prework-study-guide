@@ -47,4 +47,3 @@ function helloWorld() {
     console.log("Hello, world, I am a function!")
    }
    */
-  test
