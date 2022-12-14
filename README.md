@@ -12,7 +12,7 @@ I've finally learnt the basics of HTML, CSS, JavaScript! Though JavaScript is a 
 
 ## Installation
 
-n/a
+n/a PAGE LINK: https://i-k-dev.github.io/prework-study-guide/
 
 ## Usage
 
